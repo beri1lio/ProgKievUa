@@ -1,4 +1,4 @@
-package lecture06.Homework1;
+package lecture06.homework1;
 
 public class Rectangle {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package lecture04;
+package lecture04.homework1;
 
 public class MultiplicationTable {
     public static void main(String[] args){

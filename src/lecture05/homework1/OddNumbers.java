@@ -1,4 +1,4 @@
-package lecture05;
+package lecture05.homework1;
 
 public class OddNumbers {
     public static void main(String[] args){

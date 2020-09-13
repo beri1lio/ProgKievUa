@@ -1,4 +1,4 @@
-package lecture04;
+package lecture04.homework1;
 
 import java.util.Scanner;
 

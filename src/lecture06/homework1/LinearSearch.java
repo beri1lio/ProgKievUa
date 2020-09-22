@@ -7,9 +7,9 @@ public class LinearSearch {
         System.out.println(findElement(array, element));
     }
 
-    static int findElement(int[] arr, int element){
+    static int findElement(int[] arr, int element) {
         for (int i = 0; i < arr.length; i++) {
-            if(arr[i] == element){
+            if (arr[i] == element) {
                 return i;
             }
         }

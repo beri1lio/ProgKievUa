@@ -6,9 +6,9 @@ public class Words {
         System.out.println(countWords(line));
     }
 
-    static int countWords(String text){
+    static int countWords(String text) {
         int counter = 0;
-        for(String string : text.split(" ")){
+        for (String string : text.split(" ")) {
             counter += 1;
         }
         return counter;

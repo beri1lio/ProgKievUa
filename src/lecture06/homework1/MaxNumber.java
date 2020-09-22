@@ -6,7 +6,7 @@ public class MaxNumber {
         System.out.println(getMax(arr));
     }
 
-    static int getMax(int[] array){
+    static int getMax(int[] array) {
         int min = Integer.MIN_VALUE;
         for (int value : array) {
             if (value > min) {
